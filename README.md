@@ -9,7 +9,7 @@ authentication.
 Clone the template and install dependencies:
 
 ```
-npx create-convex@latest  -t get-convex/convex-nextauth-template
+npx create-convex@latest -t get-convex/convex-nextauth-template
 ```
 
 Then:
