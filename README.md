@@ -9,7 +9,7 @@ authentication.
 Clone the template and install dependencies:
 
 ```
-npm create convex@latest -- -t get-convex/convex-nextauth-template
+npm create convex@latest -- -t convex/convex-nextauth-template
 ```
 
 Then:
